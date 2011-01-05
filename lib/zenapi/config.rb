@@ -1,0 +1,3 @@
+class ZenApi::Config
+
+end
